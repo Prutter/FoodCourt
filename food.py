@@ -112,7 +112,7 @@ def display_menu():
 
 
 # Creating an instance of the DivineFood class
-divine_food = DivineFood("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")
+divine_food = DivineFood("Your_ChatGpt_Api-Key")
 
 while True:
     display_menu()
